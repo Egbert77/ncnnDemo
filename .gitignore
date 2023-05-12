@@ -1,0 +1,4 @@
+/app/.cxx/
+/app/src/main/jni/ncnn-20230223-android-vulkan/
+/app/build/
+/.gradle/
